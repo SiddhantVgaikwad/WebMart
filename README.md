@@ -1,5 +1,5 @@
 <h1>WebMart</h1>
-<p>This is an online shopping / eCommerce website made using Reactjs, firebase database for storing data on cloud and ContextAPI for store state and creating functions. On this site any user can signUp and signIn in his/her account. A user can add or remove product from cart , he can increase or decrease product quantity and can place order. User data will be saved in firebase database, So the user can view his purchase history anytime.</p>
+<p>WebMar is an online shopping / eCommerce website made using Reactjs, firebase database for storing data on cloud and ContextAPI for store state and creating functions. On this site any user can signUp and signIn in his/her account. A user can add or remove product from cart , he can increase or decrease product quantity and can place order. User data will be saved in firebase database, So the user can view his purchase history anytime..</p>
 
 <a href="https://buybusy-s2ll.onrender.com">Go Live to Website</a>
 
@@ -13,6 +13,8 @@
   <li>to run the code run the command "npm start" in your terminal.</li>
   <li>user can see the output by opening following link <a href="http://localhost:3000/">http://localhost:3000/</a> on there browser.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/356b9ce9-3bd4-46a4-b5ac-bd321772ab30)
 
 <h2>Features</h2>
 <ul>
